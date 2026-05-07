@@ -1,81 +1,173 @@
-Sunkesula Mohammed Asif
-📞 7702415388 | ✉️ smohammedasif7861@gmail.com | LinkedIn | GitHub
+<h1 align="center">Hi 👋, I'm Mohammed Asif</h1>
+<h3 align="center">Data Analyst | Data Quality Analyst | Power BI Developer</h3>
 
-🎯 Career Objective
-Detail‑oriented Data Analyst / Data Quality Analyst with 1 year of experience in SQL querying, data cleaning, and Power BI dashboard development. Certified in Microsoft Power BI, SQL, Agile, and React frameworks. Seeking to leverage analytical expertise to deliver actionable insights and support business growth at KFH Kuwait Finance Company.
+<p align="center">
+  <a href="mailto:smohammedasif7861@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/mohammedasif123">LinkedIn</a> •
+  <a href="https://github.com/SMOHAMMEDASIF">GitHub</a>
+</p>
 
-💼 Experience
-SKYLLX – Data Analyst (Jan 2025 – Present)
+---
 
-Conduct advanced data analysis and validation to ensure accuracy.
+## 👨‍💻 About Me
 
-Develop interactive dashboards and KPI reports in Power BI.
+Detail-oriented Data Analyst / Data Quality Analyst with experience in SQL querying, data validation, Power BI dashboard development, and Python-based analytics. Skilled in transforming raw data into actionable insights that support business growth and operational efficiency.
 
-Write optimized SQL queries for large datasets.
+- 📊 Power BI Dashboard Development
+- 🗄️ SQL Query Optimization
+- 🧹 Data Cleaning & Validation
+- 📈 KPI Reporting & Visualization
+- 🐍 Python for Data Analytics
+- 🤝 Agile Methodologies & Team Collaboration
 
-SKYLLX – Data Analytics Intern (Jun 2024 – Dec 2024)
+---
 
-Cleaned and transformed datasets using Python (NumPy, Pandas).
+## 💼 Professional Experience
 
-Built dashboards to visualize KPIs and improve reporting efficiency.
+### **ClientoClarify AI – Data Analyst**
+📍 Bangalore, India | Jan 2025 – Present
 
-🛠️ Skills
-Languages & Tools: Python, SQL, Power BI, Excel, Java Full Stack, React, Redux
+- Implemented data profiling and validation processes across large datasets.
+- Built interactive Power BI dashboards for KPI monitoring and business insights.
+- Improved Data Quality score from **70% to 95%**.
+- Automated reporting tasks reducing manual effort by **30%**.
+- Conducted root cause analysis and collaborated with stakeholders.
 
-Data Analytics: Data cleaning, validation, visualization, reporting
+### **SKYLLX – Data Analytics Intern**
+📍 Bangalore, India | Jun 2024 – Dec 2024
 
-Other: Agile methodologies, teamwork, problem‑solving
+- Cleaned and transformed datasets using Python (Pandas, NumPy).
+- Developed KPI dashboards and historical trend reports.
+- Supported data validation and reporting accuracy improvements.
 
-📜 Certifications
-Microsoft Certified: Power BI Data Analyst Associate – View Certificate
+---
 
-SQL Competency Certification (LearnSQL.com) – View Certificate
+## 🛠️ Technical Skills
 
-Agile Crash Course: Agile Project Management – View Certificate
+### Languages & Tools
+- Python
+- SQL
+- Power BI
+- Excel
+- Java
+- React
+- Redux
 
-Java Full Stack Engineer – React – View Certificate
+### Data Analytics
+- Data Cleaning
+- Data Validation
+- Data Visualization
+- KPI Reporting
+- Trend Analysis
+- Dashboard Development
 
-Modern React with Redux – View Certificate
+### Other Skills
+- Agile Methodology
+- Problem Solving
+- Stakeholder Coordination
+- Team Collaboration
 
-🎓 Education
-B.Tech in Computer Science and Engineering Sri Venkateswara College of Engineering and Technology, Andhra Pradesh 2021 – 2025 | CGPA: 7.71
+---
 
-📊 Projects
-Customer Behavior Analysis – GitHub
+## 📜 Certifications
 
-Built an end‑to‑end workflow: data extraction, cleaning, SQL querying, and Power BI visualization.
+- Microsoft Certified: Power BI Data Analyst Associate
+- SQL Competency Certification
+- Agile Crash Course: Agile Project Management
+- Java Full Stack Engineer – React
+- Modern React with Redux
 
-Analyzed customer purchase trends, segmentation, and product preferences to identify top‑selling items and seasonal demand patterns.
+---
 
-Delivered insights to optimize marketing campaigns and inventory planning.
+## 🎓 Education
 
-Tools: Python, SQL, Power BI, Excel.
+### B.Tech – Computer Science and Engineering
+Sri Venkateswara College of Engineering and Technology  
+📍 Andhra Pradesh, India  
+🎓 CGPA: 7.71 | 2021 – 2025
 
-Zepto E‑Commerce Inventory Insights (SQL) – GitHub
+---
 
-Conducted SQL‑based analysis on product pricing, discounts, and inventory availability.
+# 📊 Projects
 
-Evaluated category‑level performance, stock turnover, and discount impact on revenue.
+## 🛒 Customer Behavior Analysis
+🔗 Repository:  
+https://github.com/SMOHAMMEDASIF/customer_behavior_analysis
 
-Provided insights for revenue optimization, product value assessment, and stock management strategies.
+### Project Overview
+Built an end-to-end analytics workflow including:
+- Data extraction
+- Data cleaning
+- SQL querying
+- Power BI visualization
 
-Tools: PostgreSQL, pgAdmin, SQL.
+### Key Insights
+- Customer segmentation analysis
+- Product preference identification
+- Seasonal demand analysis
+- Marketing optimization insights
 
-Blinkit Grocery Sales Analysis (Power BI) – GitHub
+### Tools Used
+`Python` `SQL` `Power BI` `Excel`
 
-Developed interactive Power BI dashboards to analyze Blinkit’s grocery sales data.
+---
 
-Modeled KPIs including Total Sales, Average Sales, Item Count, and Average Rating.
+## 📦 Zepto E-Commerce Inventory Insights
+🔗 Repository:  
+https://github.com/SMOHAMMEDASIF/zepto-SQL-data-analysis-project
 
-Performed deep analysis by product category, fat content, outlet size/type, establishment year, and location type.
+### Project Overview
+Performed SQL-based inventory and pricing analysis for e-commerce products.
 
-Enabled identification of top‑performing products and outlets, supporting data‑driven decisions for profitability and customer satisfaction.
+### Key Insights
+- Product pricing analysis
+- Discount impact evaluation
+- Inventory optimization
+- Revenue improvement insights
 
-Tools: Power BI, SQL, DAX, Excel.
+### Tools Used
+`PostgreSQL` `pgAdmin` `SQL`
 
-⭐ Strengths
-Strong analytical and visualization skills
+---
 
-Ability to translate complex data into actionable insights
+## 🛍️ Blinkit Grocery Sales Analysis
+🔗 Repository:  
+https://github.com/SMOHAMMEDASIF/Blinkit-Data-Analysis-Project
 
-Certified expertise in modern tools and frameworks
+### Project Overview
+Created Power BI dashboards to analyze Blinkit grocery sales performance.
+
+### KPIs Developed
+- Total Sales
+- Average Sales
+- Item Count
+- Average Rating
+
+### Analysis Performed
+- Product category performance
+- Outlet analysis
+- Fat content analysis
+- Geographic sales trends
+
+### Tools Used
+`Power BI` `SQL` `DAX` `Excel`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SMOHAMMEDASIF&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMOHAMMEDASIF&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 Email: smohammedasif7861@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammedasif123  
+💻 GitHub: https://github.com/SMOHAMMEDASIF
